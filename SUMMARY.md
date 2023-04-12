@@ -4,13 +4,13 @@
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
+* [주요기능](guides/undefined.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
+* [단위업므](fundamentals/undefined.md)
 * [Copy of Projects](fundamentals/copy-of-projects.md)
 * [Copy of Projects](fundamentals/copy-of-projects-1.md)
 * [Members](fundamentals/members.md)
